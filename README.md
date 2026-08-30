@@ -2,8 +2,6 @@
 
 ## Problem Statement
 
-### Project 1: Pipeline Forecasting Intelligence Engine
-
 **What's broken**
 
 Corvia's VP of Sales submits a quarterly forecast to the board. Last quarter: €4.2M forecast, €3.1M actual — a 26% miss. The quarter before: €3.8M forecast, €4.9M actual — a 29% positive variance that nobody predicted either. Neither miss was investigated or explained.
